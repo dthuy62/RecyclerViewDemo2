@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">-- Dinh Thanh Huy --</string>
+    <string-array name="food">
+        <item>MÓN ĂN VIỆT NAM TRUYỀN THỐNG</item>
+        <item>MÓN ĂN NGON DỄ LÀM</item>
+        <item>MÓN BÁNH NỔI TIẾNG</item>
+        <item>CƠM NGON MỖI NGÀY</item>
+    </string-array>
+
+</resources>
